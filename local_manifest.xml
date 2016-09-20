@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+<!-- Jalebi -->
+<!--<project path="kernel/cyanogen/msm8916"            name="FireLord1/android_kernel_cyanogen_msm8916"              remote="github" revision="temasek-6.0.1"/>
+<project path="device/yu/jalebi"            name="FireLord1/android_device_yu_jalebi"              remote="github" revision="rr-6.0.1"/>
+<project path="vendor/yu/jalebi"            name="FireLord1/android_vendor_yu_jalebi"              remote="github" revision="temasek-6.0.1"/>
+<project path="device/cyanogen/msm8916-common"  name="CyanogenMod/android_device_cyanogen_msm8916-common"               remote="github" revision="cm-13.0"/>-->
+<project path="device/qcom/common"         name="CyanogenMod/android_device_qcom_common"          remote="github" revision="cm-13.0"/>
+
+<!-- Tress for htc one m7 xD-->
+<project path="kernel/htc/msm8960"           name="CyanogenMod/android_kernel_htc_msm8960"      remote="github" revision="cm-13.0"/>
+<project path="device/htc/m7"                name="CyanogenMod/android_device_htc_m7"                      remote="github" revision="cm-13.0"/>
+<project path="vendor/htc"                   name="TheMuppets/proprietary_vendor_htc"                remote="github" revision="cm-13.0"/> 
+<project path="device/htc/msm8960-common"    name="CyanogenMod/android_device_htc_msm8960-common"   remote="github" revision="cm-13.0"/>
+<project path="device/htc/m7-common"         name="CyanogenMod/android_device_htc_m7-common"                    remote="github" revision="cm-13.0"/>  
+
+
+  
+<!--Add sprint and verizon :P-->
+<project path="device/htc/m7spr"            name="CyanogenMod/android_device_htc_m7spr"      remote="github" revision="cm-13.0"/>
+<project path="device/htc/m7zw"             name="CyanogenMod/android_device_htc_m7vzw"      remote="github" revision="cm-13.0"/>
+
+<!-- Add HTC m9-->
+<project path="device/htc/himaul"            name="CyanogenMod/android_device_htc_himaul"      remote="github" revision="cm-13.0"/>
+<project path="kernel/htc/msm8994"         name="CyanogenMod/android_kernel_htc_msm8994"     remote="github" revision="cm-13.0"/>
+<project path="device/htc/hima-common"     name="CyanogenMod/android_device_htc_hima-common" remote="github" revision="cm-13.0"/>
+ 
+</manifest>
+
