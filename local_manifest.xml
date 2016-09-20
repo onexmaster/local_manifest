@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-
-<!-- Jalebi -->
-<!--<project path="kernel/cyanogen/msm8916"            name="FireLord1/android_kernel_cyanogen_msm8916"              remote="github" revision="temasek-6.0.1"/>
-<project path="device/yu/jalebi"            name="FireLord1/android_device_yu_jalebi"              remote="github" revision="rr-6.0.1"/>
-<project path="vendor/yu/jalebi"            name="FireLord1/android_vendor_yu_jalebi"              remote="github" revision="temasek-6.0.1"/>
-<project path="device/cyanogen/msm8916-common"  name="CyanogenMod/android_device_cyanogen_msm8916-common"               remote="github" revision="cm-13.0"/>-->
 <project path="device/qcom/common"         name="CyanogenMod/android_device_qcom_common"          remote="github" revision="cm-13.0"/>
 
 <!-- Tress for htc one m7 xD-->
