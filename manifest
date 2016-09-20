@@ -1,6 +1,0 @@
-!-- Tress for htc one m7 xD-->
-<project path="kernel/htc/msm8960"           name="onexmaster/kernel_htc_msm8960"      remote="github" revision="cm-14.0"/>
-<project path="device/htc/m7"                name="onexmaster/android_device_htc_m7"                      remote="github" revision="cm-14.0"/>
-<project path="vendor/htc"                   name="onexmaster/proprietary_vendor_htc"                remote="github" revision="cm-14.0"/>
-<project path="device/htc/msm8960-common"    name="onexmaster/device_htc_msm8960-common"   remote="github" revision="cm-14.0"/>
-<project path="device/htc/m7-common"         name="onexmaster/device_htc_m7-common"                    remote="github" revision="cm-14.0"/>
